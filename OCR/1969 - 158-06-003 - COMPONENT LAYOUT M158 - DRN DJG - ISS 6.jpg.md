@@ -32,7 +32,7 @@ Wiki page: [M158](../../../../PAGES/M158.md)
 - **Closed boxes:** 10
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6 (traced).json](../SCHEMATICS/1969%20-%20158-06-003%20-%20COMPONENT%20LAYOUT%20M158%20-%20DRN%20DJG%20-%20ISS%206%20(traced).json) (the CAD file: `1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6 (traced).json](../SCHEMATICS/1969%20-%20158-06-003%20-%20COMPONENT%20LAYOUT%20M158%20-%20DRN%20DJG%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6 (traced).dxf`).
 
 ## Full text
 
