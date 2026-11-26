@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/UNSORTED/M158/SCHEMATICS/1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6.jpg",
+ "version": 1,
+ "trace": "_traces/a3da8abc8d6498cb.svg",
+ "sheet": {
+  "number": "B 158-06-003",
+  "title": "COMPONENT LAYOUT / M158",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.3, -0.1, 431.8, 286.3],
+ "outlines": {
+  "line": {"rings": 2092, "straight": {"n": 11520, "mm": 12807.0}, "curved": {"n": 2494, "mm": 2440.9}},
+  "text": {"rings": 229, "straight": {"n": 1552, "mm": 1578.1}, "curved": {"n": 433, "mm": 471.1}}
+ },
+ "circles": [{"c": [230.7, 7.7], "r": 1.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [216.1, 4.1, 332.1, 50.7], "w": 116.0, "h": 46.6, "from": "ring"},
+  {"mm": [151.8, 37.1, 166.7, 50.5], "w": 14.9, "h": 13.4, "from": "ring"},
+  {"mm": [202.1, 41.0, 215.0, 50.1], "w": 13.0, "h": 9.1, "from": "ring"},
+  {"mm": [166.9, 37.4, 183.4, 43.4], "w": 16.5, "h": 6.0, "from": "ring"},
+  {"mm": [202.1, 22.5, 215.3, 40.8], "w": 13.2, "h": 18.4, "from": "ring"},
+  {"mm": [202.1, 13.4, 215.3, 22.0], "w": 13.2, "h": 8.6, "from": "ring"},
+  {"mm": [346.0, 4.9, 413.7, 14.0], "w": 67.6, "h": 9.1, "from": "ring"},
+  {"mm": [414.1, 5.4, 425.5, 14.0], "w": 11.4, "h": 8.6, "from": "ring"},
+  {"mm": [333.8, 4.7, 345.9, 13.6], "w": 12.1, "h": 8.9, "from": "ring"},
+  {"mm": [202.3, 4.1, 215.3, 13.0], "w": 13.0, "h": 8.9, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [146.6, 113.9], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 158-06-003, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 2–432 mm across, 0–286 mm up",
+  "- **Outlines:** line 2,092 rings, 11,520 straight (12,807 mm) / 2,494 curved (2,441 mm); text 229 rings, 1,552 straight (1,578 mm) / 433 curved (471 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.0 @ (230.7, 7.7)",
+  "- **Closed boxes:** 10",
+  "- **Dots (junctions):** 1"
+ ]
+}
