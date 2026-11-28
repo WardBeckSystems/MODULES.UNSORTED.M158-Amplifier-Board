@@ -1,6 +1,6 @@
 # M158 Amplifier Board · Amplifiers
 
-Ward-Beck Systems M158, 1969|2. Wiki page: [M158 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M158.html)
+Ward-Beck Systems M158, 1969|2. Wiki page: [M158 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M158-Amplifier-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

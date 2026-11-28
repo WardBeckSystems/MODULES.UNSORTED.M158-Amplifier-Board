@@ -1,5 +1,5 @@
 # 1969 - 158-06-003 - COMPONENT LAYOUT M158 - DRN DJG - ISS 6.jpg
-Wiki page: [M158](../../../../PAGES/M158.md)
+Wiki page: [M158](../)
 
 
 - **Year:** 1969 (title block date)
